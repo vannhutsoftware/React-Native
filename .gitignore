@@ -1,0 +1,40 @@
+# dependencies
+node_modules/
+*/node_modules/
+**/node_modules/
+
+# Expo
+.expo/
+*/.expo/
+**/expo-env.d.ts
+dist/
+web-build/
+
+# Native
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Agents & IDE
+.agents/
+**/.agents/
+.gemini/
+**/.gemini/
+.system_generated/
+**/.system_generated/
+.vscode/
+
+# Logs & Debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+*.log
+
+# OS & Temp
+.DS_Store
+Thumbs.db
+*.tsbuildinfo

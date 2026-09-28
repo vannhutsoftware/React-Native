@@ -27,6 +27,8 @@ web-build/
 .system_generated/
 **/.system_generated/
 .vscode/
+AGENTS.md
+**/AGENTS.md
 
 # Logs & Debug
 npm-debug.*

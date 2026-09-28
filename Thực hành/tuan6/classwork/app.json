@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Bài tập Tuần 5",
+    "slug": "tuan6-classwork-tuan5",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    }
+  }
+}

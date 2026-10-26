@@ -1,0 +1,3 @@
+server/db.json
+.env.local
+dist-android/
